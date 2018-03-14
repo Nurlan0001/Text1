@@ -1,0 +1,42 @@
+.main{
+	margin: 0px;
+
+}
+.main h1{
+font-style: italic;
+margin-left: 850px;
+margin-top: 300px;
+}
+.main h2{
+font-style: italic;
+margin-left: 750px;
+margin-top: 25px;
+}
+.left {
+width: 1000px;
+height: 500px;
+float: left;
+}
+.left h3{
+	font-style: italic;
+margin-left: 650px;
+margin-top: 25px;
+
+}
+.right {
+width: 1000px;
+height: 500px;
+float: right;
+
+}
+.right h3{
+font-style: italic;
+margin-left: -58px;
+margin-top: 25px;
+}
+button{
+	color: white;
+	margin-top: 25px;
+	width:200px;
+	height: 53px;
+}
